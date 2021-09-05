@@ -12,3 +12,9 @@ Use S3 bucket to store JSON files of show data and images from the shows.
  ### Issues
   - Protecting upload page
   - How to access the S3 stuff lol
+  - Nahhhhh let's use github to manage the data
+
+  ### Things to include
+  - Credit the photographer
+  - Creative commons tag in footer
+  - Shows should have location and director and date
